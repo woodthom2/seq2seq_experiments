@@ -1,0 +1,1 @@
+python translate_proteins.py --data_dir $RNN_HOME/data --from_train_data $RNN_HOME/raw/protein-train.txt --to_train_data $RNN_HOME/preprocessed/protein-train-ground-truth-annotations.txt  --train_dir $RNN_HOME/train --to_vocab_size 10 --from_vocab_size 10000
