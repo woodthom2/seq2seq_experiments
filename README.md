@@ -1,5 +1,5 @@
-# protein_ner
-NER on protein texts
+# seq2seq
+Initial attempts to do NER with seq2seq, but didn't work
 
 # Approaches
 
